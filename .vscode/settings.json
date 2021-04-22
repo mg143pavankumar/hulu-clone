@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "README.md": true,
+    "node_modules": true,
+    ".vscode": true,
+    "package-lock.json": true
+  }
+}
